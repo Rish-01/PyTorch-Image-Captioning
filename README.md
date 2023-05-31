@@ -10,7 +10,8 @@ The decoder consists of an LSTM network followed by a linear layer to generate t
 
 ## :clipboard: To-Do List
 - [x] Read papers on Image Captioning (ongoing)
-- [ ] Define a custom Dataloader for MS COCO dataset
-- [ ] Build the LSTM decoder
-- [ ] Build the Training loop
+- [x] Define a custom Dataloader for MS COCO dataset
+- [x] Build the CNN encoder
+- [x] Build the LSTM decoder
+- [x] Build the Training loop
 - [ ] Evaluate the Model
